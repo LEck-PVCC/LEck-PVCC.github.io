@@ -23,7 +23,7 @@
 <p>In practice, this would imply that even if a file is unlocked, one would still request the owner's permission to look at its contents. This respect for boundaries in virtual spaces is an expression of the respect we would have in physical spaces and is central to ethical interaction in shared technological spaces.</p>
 <br>
 <p>References</p>
-<a href="https://washu.edu/policies/guide-to-legal-and-ethical-use-of-software/">WashU.com</a>
+<a href="https://washu.edu/policies/guide-to-legal-and-ethical-use-of-software/">washU.com</a>
 <br>
 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6403524/">pmc.ncbi.nlm.nih.gov</a>
 <br>
